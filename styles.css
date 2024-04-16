@@ -47,3 +47,19 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+/* Adicionando estilos CSS inline apenas para este exemplo */
+.carros {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.carro {
+    width: 250px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+.carro img {
+    max-width: 100%;
+}
